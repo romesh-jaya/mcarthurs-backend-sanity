@@ -4,12 +4,6 @@ export default {
   type: "document",
   fields: [
     {
-      title: "Order ID",
-      name: "orderId",
-      type: "number",
-      validation: (Rule) => Rule.required(),
-    },
-    {
       title: "Kiosk ID",
       name: "kioskId",
       type: "string",
