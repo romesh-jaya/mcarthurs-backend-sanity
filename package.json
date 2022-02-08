@@ -1,11 +1,11 @@
 {
-  "name": "mcarthursbackendsanity",
+  "name": "mcarthurs-backend-sanity",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Romesh Dev <dev.monty.rom@gmail.com>",
-  "license": "UNLICENSED",
+  "author": "Romesh",
+  "license": "MIT",
   "scripts": {
     "start": "sanity start",
     "build": "sanity build"
